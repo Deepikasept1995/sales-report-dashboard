@@ -37,3 +37,5 @@ Styling and Design:
 Modern and visually appealing theme.
 
 Intuitive layout for easy navigation.
+## Dashboard Screenshot
+![Sales Report Dashboard](<img width="607" alt="Screenshot 2025-01-09 205351" src="https://github.com/user-attachments/assets/50d0ebf3-afb1-4026-b95f-83a68f1a7776" />)
